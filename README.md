@@ -1,3 +1,5 @@
+![screencapture-localhost-tasks-2023-11-15-10_15_53](https://github.com/mhardaniel/task-management-system/assets/26666891/ba91ee29-0abc-4cf3-8686-805473b13535)
+
 ## Requirements
 
 https://laravel.com/docs/10.x/installation#getting-started-on-windows
